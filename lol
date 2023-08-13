@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-title="ACCION"group-title="ACCION"tvg-logo="https://i.blogs.es/1e965a/cartel-oppenheimer/450_1000.jpeg",OPPENHEIMER
+#EXTINF:-1 tvg-title="ACCION"group-title="ACCION",tvg-logo="https://i.blogs.es/1e965a/cartel-oppenheimer/450_1000.jpeg",OPPENHEIMER
 https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/ONHRM23C.mkv
 #EXTINF:-1 tvg-title="ACCION"group-title="ACCION"tvg-logo="https://pics.filmaffinity.com/extraction_2-640259780-large.jpg",Misión de rescate 2
 https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/Extraction.2.2023.DVDRip-Lat.mp4
